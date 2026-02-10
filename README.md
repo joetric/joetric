@@ -1,4 +1,9 @@
-Full Stack Developer and Technical Founder. Former lead developer of Cicero Web Service and python-omgeo geocoding abstraction layer. Interested in solving complex urban and environmental challenges.
+Full Stack Developer and Technical Founder. Former lead developer of Cicero Web Service and python-omgeo geocoding abstraction layer. Interested in solving complex urban and environmental challenges, especially involving:
+ - bioacoustics 🐳🦉
+ - landscape ecology 🏞️🌳
+ - urban transport 🚆🚴
+
+View some of my work below:
 
 <!--
 **joetric/joetric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
