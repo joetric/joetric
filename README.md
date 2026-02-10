@@ -1,4 +1,4 @@
-Full Stack Developer and Technical Founder. Former lead developer of Cicero Web Service and python-omgeo geocoding abstraction layer. Interested in solving complex urban and environmental challenges, especially involving:
+Full Stack Developer and Technical Founder. Former lead developer of Cicero Web Services and python-omgeo geocoding abstraction layer. Interested in solving complex urban and environmental challenges, especially involving:
  - bioacoustics 🐳🦉
  - landscape ecology 🏞️🌳
  - urban transport 🚆🚴
