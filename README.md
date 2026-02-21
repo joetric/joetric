@@ -12,13 +12,13 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 - [NJ Advanced MVA Search](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA presentation]
 
 ### Geospatial & Environmental
-- [Cicero Web Services](https://www.cicerodata.com/api/)
-- [python-omgeo](https://github.com/azavea/python-omgeo)
+- [Cicero Web Services](https://www.cicerodata.com/api/) (Legislative data API)
+- [python-omgeo](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [Shoreline Change Detection](https://github.com/joetric/shoreline-change-detection)
 
 ### Election Equity
 - [Cost of Freedom](https://github.com/joetric/cost-of-freedom) (voter ID information)
-- [MonitorSquared](https://github.com/joetric/MonitorSquared)
+- [MonitorSquared](https://github.com/joetric/MonitorSquared) (election monitoring)
 
 <!--
 View selected repositories below.
