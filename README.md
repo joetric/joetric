@@ -1,9 +1,33 @@
-Full Stack Developer, Technical Founder and Data Analyst. Former lead developer of Cicero Web Services and python-omgeo geocoding abstraction layer. Interested in solving complex urban and environmental challenges, especially involving:
+Full Stack Developer, Technical Founder and Data Analyst interested in solving complex civic, urban and environmental challenges. Former lead developer of Cicero Web Services and python-omgeo geocoding abstraction layer.
+
+---
+## Selected Work
+
+### Visitor Experience & Hospitality Analytics
+- [Visitor Experience Analysis Dashboard - Booking.com](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2) [demo video]
+
+### Travel & Transportation
+- [TransitFone](https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
+- [Ride With Me](https://github.com/joetric/ride-with-me-boston-cleanweb-hackathon-2012) (rideshare app, Boston Cleanweb Hackathon, 2nd place — featured in CNET)
+- [NJ Advanced MVA Search](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA presentation]
+
+### Geospatial & Environmental
+- [Cicero Web Services](https://www.cicerodata.com/api/)
+- [python-omgeo](https://github.com/azavea/python-omgeo)
+- [Shoreline Change Detection](https://github.com/joetric/shoreline-change-detection)
+
+### Election Equity
+- [Cost of Freedom](https://github.com/joetric/cost-of-freedom) (voter ID information)
+- [MonitorSquared](https://github.com/joetric/MonitorSquared)
+
+<!--
+View selected repositories below.
+
+Interested in solving complex urban and environmental challenges, especially involving:
  - bioacoustics 🐳🦉,
  - landscape ecology 🏞️🌳 and
  - urban transport 🚆🚴
-
-View some of my work below:
+-->
 
 <!--
 **joetric/joetric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
