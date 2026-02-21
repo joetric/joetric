@@ -9,7 +9,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 ### Travel & Transportation
 - [TransitFone](https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
 - [Ride With Me](https://github.com/joetric/ride-with-me-boston-cleanweb-hackathon-2012) (rideshare app, Boston Cleanweb Hackathon, 2nd place — featured in CNET)
-- [NJ Advanced MVA Search](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA presentation]
+- [NJ Advanced MVA Search](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA/GSN presentation]
 
 ### Geospatial & Environmental
 - [Cicero Web Services](https://www.cicerodata.com/api/) (Legislative data API)
