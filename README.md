@@ -4,7 +4,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 ## Selected Work
 
 ### Visitor Experience & Hospitality Analytics
-**European Luxury Hotel Review Analysis** – ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/EuropeanLuxuryHotelReviewAnalysis/Dashboard) · [demo video](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2))
+- **European Luxury Hotel Review Analysis** – ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/EuropeanLuxuryHotelReviewAnalysis/Dashboard) · [demo video](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2))
 
 ### Travel & Transportation
 - **[TransitFone]**(https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
