@@ -12,18 +12,18 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
   - Uses Delaware Open Checkbook data to display center-weighted moving averages of different fuel/utility types, illustrating seasonal and economic variations
 
 ### Visitor Experience & Hospitality Analytics
-- **European Luxury Hotel Review Analysis** – ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/EuropeanLuxuryHotelReviewAnalysis/Dashboard) · [demo video](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2))
-
-### Travel & Transportation
-- [**TransitFone**](https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
-- [**Ride With Me**](https://github.com/joetric/ride-with-me-boston-cleanweb-hackathon-2012) (rideshare app, Boston Cleanweb Hackathon, 2nd place — featured in CNET)
-- [**NJ Advanced MVA Search**](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA/GSN presentation]
+- **European Luxury Hotel Review Analysis** – ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/EuropeanLuxuryHotelReviewAnalysis/Dashboard) · [demo video](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2))\
 
 ### Geospatial & Environmental
 - [**Cicero Web Services**](https://www.cicerodata.com/api/) (Legislative data API)
 - [**python-omgeo**](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [**Shoreline Change Detection**](https://github.com/joetric/shoreline-change-detection)
 - **Dolphin Social Network Analysis**
+
+### Travel & Transportation
+- [**TransitFone**](https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
+- [**Ride With Me**](https://github.com/joetric/ride-with-me-boston-cleanweb-hackathon-2012) (rideshare app, Boston Cleanweb Hackathon, 2nd place — featured in CNET)
+- [**NJ Advanced MVA Search**](https://doi.org/10.13140/RG.2.2.10878.09283) (streetstats.org) [URISA/GSN presentation]
 
 ### Election Equity
 - [**Cost of Freedom**](https://github.com/joetric/cost-of-freedom) (voter ID information)
