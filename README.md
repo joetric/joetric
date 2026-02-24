@@ -4,6 +4,8 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 ## Selected Work
 
 ### Fiscal & Operational Analytics
+- [**Delaware Open Vendor Expense & Revenue Data Engine (DOVERDE)**](https://github.com/joetric/doverde)
+  - Agency-agnostic automated revenue and expense ETL and analysis using Delaware open revenue and checkbook datasets, Polars, and the Socrata Open Data API.
 - **Delaware State Parks Energy 'Burn Rate' Visualization** ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/DelawareStateParksDailyUtilitySpendDelawareOpenCheckbookFY2020FY2025/db_util_ledg))
   - ETL with Polars / Socrata Open Data API / sodapy
   - Visualization with Tableau
