@@ -20,6 +20,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 - [**Cicero Web Services**](https://www.cicerodata.com/api/) (Legislative data API)
 - [**python-omgeo**](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [**Shoreline Change Detection**](https://github.com/joetric/shoreline-change-detection)
+- **Dolphin Social Network Analysis**
 
 ### Election Equity
 - [**Cost of Freedom**](https://github.com/joetric/cost-of-freedom) (voter ID information)
