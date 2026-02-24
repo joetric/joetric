@@ -3,6 +3,11 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 ---
 ## Selected Work
 
+### Fiscal & Operational Analytics
+- **Delaware State Parks Energy 'Burn Rate' Visualization** ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/DelawareStateParksDailyUtilitySpendDelawareOpenCheckbookFY2020FY2025/db_util_ledg))
+  - ETL with Polars / Socrata Open Data API / sodapy
+  - Visualization with Tableau
+
 ### Visitor Experience & Hospitality Analytics
 - **European Luxury Hotel Review Analysis** – ([live dashboard](https://public.tableau.com/app/profile/joseph.tricarico/viz/EuropeanLuxuryHotelReviewAnalysis/Dashboard) · [demo video](https://vimeo.com/1166900615?fl=ip&fe=ec&t=2))
 
