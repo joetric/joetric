@@ -18,7 +18,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 - [**Cicero Web Services**](https://www.cicerodata.com/api/) (Legislative data API)
 - [**python-omgeo**](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [**Shoreline Change Detection**](https://github.com/joetric/shoreline-change-detection) (using Google Earth Engine)
-- **Investigator Disturbance Detection PAM/VAD Pipeline** (in progress)
+- [**pyoacoustics: Investigator Disturbance Detection PAM/VAD Pipeline**](https://github.com/joetric/pyoacoustics) (in progress)
 - **Dolphin Social Network Analysis**
 
 ### Travel & Transportation
