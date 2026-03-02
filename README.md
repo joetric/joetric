@@ -19,7 +19,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 - [**python-omgeo**](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [**Shoreline Change Detection**](https://github.com/joetric/shoreline-change-detection) (using Google Earth Engine)
 - [**pyoacoustics: Investigator Disturbance Detection PAM/VAD Pipeline**](https://github.com/joetric/pyoacoustics) (in progress)
-- **Dolphin Social Network Analysis**
+- **Dolphin Social Network Analysis** (using Gephi)
 
 ### Travel & Transportation
 - [**TransitFone**](https://github.com/joetric/TransitFone) (SMS transit alerts for low-income commuters)
