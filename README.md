@@ -21,6 +21,7 @@ Full Stack Developer, Technical Founder and Data Analyst interested in solving c
 - [**python-omgeo**](https://github.com/azavea/python-omgeo) (Geocoding abstraction layer)
 - [**Shoreline Change Detection**](https://github.com/joetric/shoreline-change-detection) (using Google Earth Engine)
 - [**pyoacoustics: Investigator Disturbance Detection PAM/VAD Pipeline**](https://github.com/joetric/pyoacoustics) (in progress)
+- [**Tracking the Red Knot**](https://storymaps.arcgis.com/stories/c22de70e09ab458186cce9b1bc4912a5) (contributor - Esri ArcGIS StoryMap)
 - **Dolphin Social Network Analysis** (using Gephi)
 
 ### Travel & Transportation
